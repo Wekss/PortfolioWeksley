@@ -1,0 +1,135 @@
+body { /*Estilo do corpo da pagina HTMl*/
+    background-color: #0A0A2A;
+}
+.nav {
+    display: inline;
+    height:22px;
+    width:102px;
+}
+#sobremim{
+    
+    height:32px;
+    width:82px;
+}
+#minhaformacao{
+    display: inline-block;
+    height:32px;
+    width:32px;
+}
+
+
+
+.cabecalho{
+    height: 50px;
+    width: 100%;
+    border: 1px solid #4CAF50;
+    background: #4CAF50;
+}
+
+h1 {
+    color: honeydew;
+    margin-left: 20px;
+}
+.perfil{ /* Estilo da classe perfil*/
+    display: block;
+    margin-left: auto;
+    margin-right: 30%;
+    width: 30%;
+    
+}
+#fotoperfil{ /*Estilo da classe foto do perfil, responsavel por estilizar a foto*/
+    margin-left: 15%;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 50%;
+}
+.contatos {
+    width: 200px;
+    padding: 10px;
+    
+}
+
+#rs{
+    width: 70px;
+    position: relative;
+    box-sizing: border-box;
+    
+}
+
+#logos{ /*Estilizando o css das logos do conhecimento*/
+    width: 70px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+#nome{
+    font-family: "Arial"; /*Estilizando o nome*/
+}
+
+#enviaemail {
+    width: 200px;
+    padding: 10px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+
+a {
+    display: inline-block;
+    height:32px;
+    width:32px;
+}
+
+#descricaof{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+    width: 500px;
+    height: 500px;
+    border:solid 1px;
+    border-radius:20px;
+    border-color: white;
+}
+
+#descricaosobre{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+    width: 700px;
+    height: 700px;
+    border:solid 1px;
+    border-radius:20px;
+    border-color: white;
+}
+
+#paginainicial, #sobremim, #minhaformacao{ /*Estilização dos Hiperlinks*/
+    width: 200px;
+    padding: 10px;
+    color: white;
+}
+
+h5{
+  color: white;
+  font-size: smaller;
+  font-size: 25px;
+}
+
+h6{
+    color: white;
+    font-size: smaller;
+    font-size: 25px;
+}
+
+h3{
+    color: white;
+    font-size: smaller;
+    font-size: 25px;
+}
+
