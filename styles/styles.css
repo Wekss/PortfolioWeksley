@@ -96,7 +96,7 @@ a {
     border-color: white;
 }
 
-#descricaosobre{
+#descricaosobre, #contatospag, #descricaof{ /*Centralizando itens dentro da div*/
     position: absolute;
     top: 50%;
     left: 50%;
@@ -109,8 +109,8 @@ a {
     border-color: white;
 }
 
-#paginainicial, #sobremim, #minhaformacao{ /*Estilização dos Hiperlinks*/
-    width: 200px;
+#paginainicial, #sobremim, #minhaformacao, #contato{ /*Estilização dos Hiperlinks*/
+    width: 100px;
     padding: 10px;
     color: white;
 }
